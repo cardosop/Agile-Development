@@ -1,0 +1,68 @@
+Testing Problem Scenarios in Design Sprints
+
+
+
+1. 
+A retailer with both online and bricks-and-mortar stores has hired you to redesign its returns tracking. You want to run a problem scenario sprint focused on their end customer. Which of the venues below is the least promising choice for recruiting subjects?
+
+Their online site
+
+Their physical stores
+
+vvvv	Social media (Facebook, Twitter, Instagram)
+
+Asking employees at their stores to recruit subjects
+
+----------///////--------//////------////-----////-------------------
+
+2. 
+Using the formula [approach 12 people/hour, 1/3 pass the screener, and 50% agree to participate], how many people will you need to approach to get 20 people scheduled for interviews?
+
+Don't worry about no-show's for this answer!
+
+~40
+
+vvvv	~120
+
+~80
+
+~60
+
+----------///////--------//////------////-----////-------------------
+
+3. 
+Your interview guide begins with specific questions such as "What problems do you have with your commute?" and ends with "Tell me about how you get to work." What could you do to improve the effectiveness of your guide?
+
+Ask more detailed questions
+
+vvvv	Reorder the questions
+
+Ask more general questions
+
+Ask more "feeling" questions
+
+----------///////--------//////------////-----////-------------------
+
+4. 
+It's the end of Day 2 and after spending a day in the field doing interviews, the team feels uncertain about what they're doing. What's your best move?
+
+vvvv	Schedule a mini retrospective (probably via Skype or Google Hangout) with a specific agenda, including a round robin on what's been hard, what's been easy and what they'd like to keep, add, and change process wise.
+
+It's fine! Really! Just keep at it.
+
+Provide a template for a shared medium (Google Doc's or email) that asks them to report on two simple things: how many people they've interviewed and their top five learnings.
+
+Review their transcripts on Google Doc's and tweak the interview guide to make sure the team is getting the right info.
+
+----------///////--------//////------////-----////-------------------
+
+5. 
+How will you know your team is ready to draft wireframes in the afternoon of Day 5?
+
+They've finished interviewing users and have validated personas and problem scenarios.
+
+They've decided on epics and drafted storyboards.
+
+They've collaborated to create child stories and test cases.
+
+vvvv	They have a shared understanding of users and narratives in the form of user stories about how to deliver them valuable experiences. They also have a set of applicable UI patterns and comparables.

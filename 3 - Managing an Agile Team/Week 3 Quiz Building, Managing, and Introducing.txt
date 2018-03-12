@@ -1,0 +1,102 @@
+ 
+Week 3 Quiz: Building, Managing, and Introducing
+
+
+1. 
+Which of the following is pair programming least likely to accomplish?
+
+VVVV	Cranking out code faster
+
+Knowledge transfer
+
+Defect reduction
+
+More considered design decisions
+
+
+1. 
+The team agrees that the work of the testers is too back-loaded toward the end of the development cycle. What is the likely effect of trying out shorter iterations?
+
+VVVV	The testers will get working software sooner which will likely even out their flow some.
+
+Probably nothing.
+
+Defects will go down.
+
+XXXX	Developers and testers will work together more closely.
+
+-----------------------------///////////////------------/////////------------/////////----------//////---------
+
+2. 
+As a new Chief Technology Officer for a national nonprofit, you're excited to jump in. The organization is used to traditional dev practices, but you want to switch to agile. You plan to start with one team. Which of the following is the most important thing you can do for them?
+
+Make sure their project isn't large and important
+
+Make sure they're isolated from the rest of the organization.
+
+VVVV	Make sure their charter is anchored to a user problem area vs. a specific solution technology
+
+Make sure their first project is very small.
+
+-----------------------------///////////////------------/////////------------/////////----------//////---------
+
+3. 
+You find out you'll be managing a team split between the home office in Costa Rica and an office in Iceland. What's the first step you'll take to ensure collaborative success?
+
+Post user stories and personas in a google folder.
+
+Focus on output to get this project done!
+
+Explore cultural issues and context
+
+XXXX	Have virtual daily standups
+
+
+3. 
+You learn you're getting a few new team members from the West Coast. Your East Coast-based team is excited to work with them and implement some agile processes, such as automation and continuous integration, and you kick off with a focus on narrative collaboration. Despite few obstacles reported, the output of the first sprint is less complete and a lot buggier than you'd anticipated. What's a reasonable hypothesis to explore about why?
+
+Your development cycles are too long.
+
+VVVV	Your new team is hesitant to bring up issues in the stand ups.
+
+Your new team lacks the skills to create a quality product.
+
+XXXX	Your investment in automation is finding problems that used to slip through the cracks.
+
+-----------------------------///////////////------------/////////------------/////////----------//////---------
+
+4. 
+Based on the success of your previous releases, the CEO announces a new product release in six months. You think it's too soon based on your velocity and meet with her to get a solid understanding of what she wants to accomplish with the release and why. At the end of the meeting, she offers to double the size of your team--but she refuses to budge on the launch date. What should you do?
+
+Set up a schedule of specific deliverables so you can meet the deadline.
+
+Gratefully accept the extra help and look forward to doubling your production rate.
+
+XXXX	Explain in detail what agile is and how and why due dates are antithetical to it.
+
+Ask for a bigger budget rather than more team members.
+
+
+4. 
+The CEO announces a new product release in two months. You're not certain the full-fledged product will be available then--or even what the product will look like. What's your best first step to meet this goal?
+
+VVVV	Meet with her and figure out what she needs
+
+Ask for a bigger budget to hire more coders
+
+Tell her you're following an agile methodology and can't promise anything
+
+Define specific deliverables ASAP and get going
+
+-----------------------------///////////////------------/////////------------/////////----------//////---------
+
+5. 
+After learning about Spotify and Salesforce.com's implementation of agile, you're determined to build on their success in your own small startup. Which of their lessons learned is least applicable to your situation?
+
+Get outside training and coaching and leverage it.
+
+XXXX	Focus on automation and prioritize test infrastructure.
+
+XXXX	Be clear about which agile practices you'll use, tightly align, and give lots of autonomy to teams to iterate.
+
+VVVV	Ensure executive commitment and give them deliverables to complete.

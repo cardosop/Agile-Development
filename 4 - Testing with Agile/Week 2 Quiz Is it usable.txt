@@ -1,0 +1,118 @@
+Week 2 Quiz: Is it usable?
+
+
+
+1. 
+Your team has a set of user stories they're preparing for implementation. They've reviewed patterns and comparables, chosen an approach they want to explore, created an interactive protototype, used the template to prepare research details for the first usability test, and screened subjects. What else do they need to do in order to make sure they are ready to test with subjects?
+
+XXXX	Decide what kind of test to use.
+
+XXXX	Make sure the subjects selected will be appropriate for the test.
+
+VVVV	Test the test plan.
+
+XXXX	Prepare questions about signifiers, including color and style.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+2. 
+Your company has a new CEO who isn't very familiar with agile practices. He has questioned the expense and time involved in usability tests, so you've invited him to attend one as a spectator. When the moderator displays a paper prototype during the test, the CEO looks surprised (and not in a good way). How will you explain the significance and purpose of the prototype when you debrief with the CEO later?
+
+"The prototype is acting as a wireframe."
+
+"You're right. Testing was probably done too early. We'll wait until a full mockup is ready for the next usability test."
+
+"At the next usability test, we won't use a paper prototype. Instead, we'll simply ask test subjects to recall a time when they engaged in the action being tested."
+
+VVVV	"Paper prototypes are well established as a way to quickly explore an approach to see if it's the right one to pursue."
+
+
+2. 
+Your team's first usability test bombs. The test subjects seem perplexed by the test items and indicate that they aren't familiar with the narratives/actions being tested and wouldn't need to execute these tasks in their daily work. What could your team have done to prevent this from happening?
+
+Practice and make sure the infrastructure of the test site is functioning smoothly
+
+Prepare questions about signifiers, including color and style
+
+Use a different kind of test so users will be less confused
+
+VVVV	Make sure the subjects selected are appropriate for the test
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+3. 
+During usability tests, you observe that subjects are particularly confused at a couple of key points where the website uses different approaches/styles for the same kind of action. How could the team remedy this problem?
+
+Embrace current design styles, especially spare designs featuring limited text and other features.
+
+Write a positioning statement briefly describing the company and the product.
+
+Ask someone on the team to articulate their favorite design styles and adopt that across the application.
+
+VVVV	Create a style guide so the design will be consistent across the product.
+
+
+You are working at a small startup with limited resources, and your team doesn't have access to a designer. You were able to collaborate with a trained designer when you worked at a larger company. How would you advise the team to start down the path of good (visual) design with the resources you have?
+
+XXXX	Get the style guide done quickly so the team won't have to think about it again.
+
+Create interest and excitement by varying the look and feel across the product, website, and printed materials.
+
+Skip the brand strategy mood board--it will be time-consuming, expensive, and unwieldy for a small team.
+
+VVVV	Create a positioning statement and mood board to kickstart a specific discussion on what the product represents to users.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+4. 
+You are creating a website for a network of bed and breakfast establishments. Which of these would you avoid as you are developing the product?
+
+VVVV	Invent novel signifiers and ways of categorizing and filtering the properties.
+
+Hire a professional designer, if the budget allows.
+
+Look at how popular vacation rental websites display features and information about each property.
+
+XXXX	Conduct usability tests, even for seemingly simple items like finding a location.
+
+
+4. 
+You are developing a website for a company that sells swimsuits and swimming gear, such as goggles, fins, and swim caps. How would you go about designing the site if you have very limited resources?
+
+Think of universal interface solutions rather than getting overwhelmed by considering interfaces that work with your specific user stories.
+
+VVVV	Research sites that sell similar items or that use features and functionality to identify patterns that are likely to be familiar to your customers.
+
+XXXX	Hire a professional, expert designer; the site can't be built without one.
+
+Invent novel signifiers and ways of categorizing items.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+5. 
+A colleague just handed you a draft of an introduction to a usability test and asked for feedback. How would you suggest he revise the introduction below?
+
+Introduction DRAFT Thanks so much for taking time out of your busy schedules to help us out today. I know we are on a tight schedule, so I'll get us started. To begin, let's look at this screenshot of the registration page an undergraduate would see after selecting classes that are required for her major. Tell me what you see here. If you were this student, how would you proceed from here?
+
+
+XXXX	Advise your colleague to hold off on the usability test until a working version of the website can be tested, rather than an interactive prototype.
+
+VVVV	Provide a specific motivation/goal to the subject so they have a clear understanding of their objectives.
+
+Add reassurances that you'll be there to guide them every step of the way.
+
+Ask the test subjects about their signifier preferences.
+
+
+5. 
+A colleague just handed you a draft of an introduction to a usability test and asked for feedback. How would you suggest she revise the introduction below?
+
+Introduction DRAFT Today we're going to be looking at a revamped online class registration system for a university. The system will help students register for classes that meet their degree requirements and select electives. Let's assume you're about to register for classes. Why would you want to register for classes online? Would you want to be able to read peer reviews of courses? What kind of information would you be looking for?
+
+XXXX	Ask the subject to choose between specific alternatives
+
+VVVV	Provide the motivation based on the goals in your user stories, instead of asking subjects to consider their motivation.
+
+XXXX	Ask some questions to screen the test subjects--you want to be sure you know how to filter their feedback.
+
+Include more technical terms--such as wireframe, prototype, and minimum viable product--for the test subjects' benefit.

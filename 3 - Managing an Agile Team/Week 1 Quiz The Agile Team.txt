@@ -1,0 +1,129 @@
+Fechar
+Week 1 Quiz: The Agile Team
+
+
+1. 
+How might a Scrum Master's responsibilities change once a team has some experience with agile methodologies?
+
+VVVV	As the Scrum Master coaches the team to adopt agile practices, he or she will likely have less work to do once the team begins to self-organize.
+
+Over time, Scrum Masters spend more time organizing the team.
+
+The Scrum Master should consistently enforce rules, policing the team.
+
+The Scrum Master's responsibilities don't change over time.
+
+
+1. 
+How might a product owner most effectively contribute to a team making a website more user friendly for international customers?
+
+Coach the team on agile practices and make sure parameters are consistently applied.
+
+Organize the team to use agile practices.
+
+Shield the development team from needing to contribute to the narrative or interact with users.
+
+VVVV	Design backlogs that maximize early observations of the user with the working software and facilitate interactions so that team members better understand what will bring value to the international customers.
+
+-------------------///////////--------------/////////---------/////////----
+
+2. 
+Which of these is the best example of an effective update to share at a stand up meeting?
+
+Yesterday I finished the deployment script. I have an obstacle because we don't have resources for the contractor to get started on her work.
+
+VVVV	Yesterday I finished writing unit tests for the new search control, and today I'm going to code it. I have a question about the interaction under certain conditions which I need to talk to the product owner about after the meeting.
+
+Yesterday I debugged an issue with time zone changes, and I worked with the UX specialist on the cart functionality.
+
+Today I'm going to improve the code for uploading data, and I have no obstacles.
+
+
+2. 
+At a stand up meeting, a problem with the website shopping cart functionality is raised by two developers on the team. How should the meeting proceed?
+
+Everyone on the team should discuss the problem until it is resolved.
+
+VVVV	The two developers should follow up on the problem immediately after the meeting.
+
+The problem should be slated for the next sprint.
+
+The team should estimate how long it will take to discuss the issue and proceed with the discussion as long as it is less than one hour.
+
+-------------------///////////--------------/////////---------/////////----
+
+3. 
+Under what circumstances is a burndown chart most likely to be helpful for an agile team?
+
+There is a great deal of uncertainty about how long items in the backlog will take.
+
+VVVV	Completion time for stories in the backlog is relatively predictable.
+
+The chart creates anxiety that will keep team members on edge and working hard.
+
+The team is building something new and unlike anything else they've built before.
+
+
+3. 
+You are the Scrum Master of a team working on a solution that requires a lot of new code and technical facets--more than the usual. Several days into the 10-day sprint, the number of completed story points has not decreased. Overall, things are going fine, but some team members and outside stakeholders are anxious about the apparent lack of progress on the burndown chart. What might you do?
+
+XXXX	Keep the burndown chart displayed. The team needs to be reminded of unfinished items in the backlog.
+
+Burndown charts are required for Scrum teams. Keep it up.
+
+VVVV	If the team is being negatively impacted, consider scrapping the the burndown chart.
+
+XXXX	If the story points are difficult to calculate, keep using the chart until it becomes easier.
+
+-------------------///////////--------------/////////---------/////////----
+
+4. 
+It's your first day working as a developer with a company that creates software that deals with medical records. You've been getting settled in your new office space and notice that the team is spread out across two large rooms, and everyone has their own cubicles with tall partitions. The common walls in the area feature colorful art but are otherwise bare. You can't see or clearly hear anyone else on your team. How might this arrangement impact collaboration for a team using XP practices?
+
+The ability to quietly reflect and work in this environment will enable you to meet the individual commitments characteristic of teams using XP practices.
+
+Other than adding a tool that charts the progress of the team, this set up sounds perfect for an XP environment.
+
+XXXX	The only change necessary would be to push the desks closer together and remove the cubicle partitions.
+
+VVVV	Tear down those walls! Frequent and impromptu discussions are critical. It is also important for the team to see displays that increase their understanding of success and value for the user.
+
+
+4. 
+As the new manager of a software development team, how could you best apply XP practices?
+
+Earn the team points with company leadership by agreeing to add any features requested, no matter when the request occurs.
+
+Because you've successfully used XP in previous jobs, announce that you'll guide the team through the next project using an XP practices.
+
+Be forward thinking and encourage the team to write code that will anticipate future problems.
+
+VVVV	Introduce XP principles to the team and support them if they want to adopt some of the practices.
+
+-------------------///////////--------------/////////---------/////////----
+
+5. 
+A team is using a kanban board and notices that many items are stacking up in a certain stage of the development process. How should they initially react in order to best manage flow?
+
+VVVV	Make sure there are explicit work in progress (WIP) limits at each column/stage of the development process and then experiment with tuning those across iterations.
+
+Increase the number of feedback loops.
+
+Move items from design to delivery more slowly in order to spread out any potential problems.
+
+Calculate the burn up rate.
+
+
+5. 
+How can kanban give teams and other stakeholders a better understanding of their overall process?
+
+Kanban measures velocity in advance.
+
+*	Charting cumulative flow is a practice that can reveal how well the overall process is functioning over time.
+
+Kanban is too abstract to use for examining the overall process.
+
+Managers and teams like to see how things are going by examining burndown.
+
+
+

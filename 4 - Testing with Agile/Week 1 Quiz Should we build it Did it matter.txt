@@ -1,0 +1,113 @@
+Week 1 Quiz: Should we build it? Did it matter?
+
+
+1. 
+You're collaborating with a group of developers to build an app that addresses a common problem facing your city: finding parking spaces. Together, you've finished customer discovery and validated your core propositions. You've built an initial product based on user stories that are tied to those propositions. After building a minimum viable product based on your hypotheses, your analytics show that users are accessing the app regularly but aren't successfully finding parking spaces each time they use it. Those analytics and user follow-ups suggest this is because they are having trouble with the search function. What problem might your team be facing?
+
+Your team developed a minimum viable product that isn't tied to user stories.
+
+Your team needs to build and test a completely new prototype based on the product feature assumptions.
+
+VVVV	Your team needs to review 0 day success criteria on usability, particularly around search.
+
+Your team did not adequately explore why they were building the app.
+
+
+1. 
+Your team is working on a plant identification app for a client. The client feels they have a clear vision for the project and provided you a list of features. The development team built a 1.0 based on the client's specifications and have released it to a test group. Initial feedback was encouraging and usability tested well. However, you've found that usage is dropping off significantly after the 30-day mark. What might be the problem?
+
+VVVV	Your team did not adequately explore what constituted a valuable outcome for the user
+
+Your team developed a minimum viable product that isn't testable in the field.
+
+Your team needs to build and test a new prototype based on the product feature assumptions.
+
+Your team needs to focus on what features the product should have.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. 
+Your client, a book seller, wants to figure out the best way to get more customers to sign up for their monthly email with personalized suggestions for new books. Right now sign-ups are OK but not great. Initial interviews with customers suggest that a basic desire to be connected with a great next book exists. Those that have the service enjoy it and continue it. How should your team experiment to make this happen for your client?
+
+VVVV	Generate some specific hypotheses about how to better deliver on the proposition of personalized reading suggestions, rank them, execute them, and run A/B tests on the customer base to test them.
+
+Create a product experiment featuring the monthly email.
+
+The team should create a cohort experiment to compare customers over time to see who is most likely to subscribe to the monthly book club.
+
+Create a concierge MVP experience and run it
+
+
+2. 
+Your team built an online payment system for school lunches. Overall, the product is working well and the segments it services (students, parents, and the cafeteria team) find it valuable. However, parents have asked for some new features. The schools have collected the inputs and they're a little patchy--ideas for an app, an email, and a web page. Your initial discovery interviews reveal that parents want to know what their child is purchasing, both to monitor their spending and their nutrition. What is the best next step?
+
+The team should create a cohort experiment to compare customers over time to see who is most likely to use the new feature.
+
+Use an A/B test to analyze quantitative data and outcomes of two different landing pages describing the potential new features.
+
+Create a funnel experiment to find the best way to get parents to sign up for the online payment system if it has these new features.
+
+VVVV	Conduct a feature experiment using a concierge MVP that gives parents the ability to see what food their child purchases each day.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. 
+Your team has just conducted an A/B test on a new cart feature and has some puzzling results. What should the team do next?
+
+VVVV	The team should review the fundamental propositions through qualitative research with customers to better understand what's driving behavior around the shopping cart.
+
+Run a cohort test to compare different ways to navigate through the cart feature.
+
+Scrap the feature until a future product iteration is released.
+
+A/B tests are easy to set up, so the team should run quite a few to get more quantitative data.
+
+
+3. 
+A team fairly new to agile practices is working on a brand new product. What questions should they be asking and what types of experiments should they be running as they get started?
+
+VVVV	The team should focus on testing user motivation.
+
+The team should focus on testing usability.
+
+The team should create funnel tests to see if they can convert more users to revenue.
+
+The team should design a cohort test to analyze how changes in the user journey will affect outcomes.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. 
+Why might a team decide to scrap a feature after testing it?
+
+VVVV	After 30 days, users are taking advantage of the feature in less than [threshold percentage] of interactions.
+
+After several months, the feature is continually used and users share anecdotal evidence that they like what the feature is doing for them.
+
+After a month, more users than the failure threshold are using the feature.
+
+XXXX	In usability testing, the majority of users can't complete the core tasks with the interface
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. 
+A music video website enables users to record and upload videos set to popular songs. There's a feature that allows viewers on the site to rate posted videos, and the highest rated videos are listed in the trending favorites area. In terms of the Hook Framework, why might this feature be included in the product?
+
+The trending favorites area increases the anticipation of an uncertain reward.
+
+XXXX	The trending favorites area is acting as an external trigger and encourages the user to use the website.
+
+The trending favorites area increases the action required of the user.
+
+XXXX	The trending favorites area will deepen the user's investment in the product and make it less likely for the user to switch to another similar product.
+
+
+5. 
+You're part of a team developing a healthy living app. The app is designed to help users monitor blood pressure and heart rate and also encourages users to make healthy decisions such as getting more sleep, exercising, and drinking water. The team's tests find that some users have made the app a habit, but the team would like for more of them to use it more regularly. In terms of the Hook Framework, why might the team investigate the impact of sending text message reminders for users to drink a glass of water at periodic intervals throughout the day?
+
+The text will deepen the user's investment in the app and make it less likely for the user to switch to another similar product.
+
+VVVV	The text is acting as an external trigger for the user to take action with the app.
+
+The text increases the action required of the user.
+
+The text increases the anticipation of an uncertain reward.

@@ -1,0 +1,78 @@
+Week 2 Quiz: Learning and Deciding
+
+
+
+1. 
+If you were to sit down with an experienced agile team member to talk about her team's ability to make decisions, what would you be most likely to hear?
+
+VVVV	"My team does a lot of releases. I know that every solution we make is temporary and we can always find new ways to make things better for the customer."
+
+"There's a lot of turnover on my team because when we make mistakes about priorities, someone has to be held accountable."
+
+"Every day is different and full of surprises. I never know what I'll be working on next because things change at the drop of a hat."
+
+"It is difficult to meet my daily goals because of the constant flow of new ideas from leadership, users, stakeholders, and others requesting changes."
+
+----**********----------**********----------***********--------*********----------*********--------*******----------*****-------
+
+2. 
+You've been working on an agile team within your company. In an effort to spread expertise throughout the organization, you'll be working on a new team to help the company expand their practice of agile. Why might you caution the team against adopting long iterations?
+
+The team needs longer iterations because they've been getting valuable feedback too late in the process.
+
+VVVV	Short iterations allow teams to get small pieces of software out and tested quickly, allowing the team to learn faster how things the working software functions and how it does in the field.
+
+Short iterations allow for vertical slices of the narrative lasagna, or the user story map.
+
+Implementation teams often don't work fast enough for big, long iterations.
+
+
+2. 
+Patricia is a new product owner. She's passionate about the product and is an expert on the market and users, but she's not as familiar with agile. As a seasoned agile team member, what do you hope to see Patricia bring to the team's decision making process for the next sprint?
+
+Patricia should divide the number of stories by the number of weeks until release and tell the team what they need to get done in each weekly sprint.
+
+VVVV	Patricia should use her expertise on what's valuable to the user to prioritize the thinnest possible set of highest priority narratives so that the team can implement a meaningful experience for the user and test it (even if they don't finish everything).
+
+Patricia should encourage the team to create long iterations, so there is more for customers to test at once.
+
+Patricia should sort items from the product backlog to the sprint backlog in terms of general priority and functional area.
+
+----**********----------**********----------***********--------*********----------*********--------*******----------*****-------
+
+3. 
+A friend heard you were taking this course and asked how it addressed the best way to manage workflow on agile teams. How would you summarize the use of backlogs?
+
+Every team should have the same structure to their sprint and product backlogs. Consistency matters and that's how you scale.
+
+It doesn't matter how the backlog is organized as long as user stories can be reviewed at the very end, just before release.
+
+VVVV	Each team needs to collaborate to find the way that works best for them to organize their backlogs.
+
+Sprint backlogs should be set up according to specific rules. That's what agile is about.
+
+----**********----------**********----------***********--------*********----------*********--------*******----------*****-------
+
+4. 
+A grocery store chain is looking for a software solution to solve their ongoing stocking problem. Employees spend a frustrating amount of time trying to rotate soon to be expired items to the front and then discarding them once they have expired. Customers are also very disappointed when they inadvertently purchase expired goods. What might an experienced team do when addressing these user needs?
+
+Focus on either all customer or all employee user stories and then switch to the other when the first half is tested and built out.
+
+Meet with and observe users once, and then build the solution before spending the time to reconnect with users.
+
+VVVV	Focus on one problem at a time and build the simplest possible solution that they can meaningfully test.
+
+Build a comprehensive solution so nothing will be missed and testing can take place all at once.
+
+----**********----------**********----------***********--------*********----------*********--------*******----------*****-------
+
+5. 
+On agile teams, how do coarse estimates compare to detailed estimates?
+
+The agile community has a strong consensus in its approach to creating estimates.
+
+VVVV	Coarse estimates tend to take less time and often are sufficient to help teams prioritize and determine how to share responsibilities.
+
+Detailed estimates make for better planning.
+
+XXXX	Coarse estimates often take more business-value added time, which is an asset for teams.

@@ -1,0 +1,78 @@
+Testing Motivation in Design Sprints
+
+
+ 
+1. 
+Which of the following experiments best tests motivation?
+
+vvvv	Host a series of webinars about (hypothetical) new features and see how many people sign up and show up
+
+Create an interactive prototoype and observe how customers interact with it
+
+Give users a task to complete with your product and observe the results.
+
+Create two different versions of your product and see which one users interact with most effectively.
+
+----------/////-----------//////----------///////--------------------
+
+2. 
+A consumer organization surveys its membership and finds that 75% would pay more for designated natural foods if that labeling meant a certain standard had been met. What should food producers do as a result of this survey?
+
+Raise prices on natural food items
+
+Design labeling and production standards in line with customer preferences
+
+vvvv	Design and conduct an experiment to test preferences and willingness to pay
+
+Reduce production of "unnatural" foods and increase production of natural foods
+
+----------/////-----------//////----------///////--------------------
+
+3. 
+Which of the following is the most readily testable assumption?
+
+If we create a Facebook page about our value proposition, we'll get likes and shares.
+
+vvvv	If we offer a free one-week trial to our target users via email, 15% of them would sign up.
+
+If we walk new users through our site, they'll be more likely to make a habit out of using our service.
+
+If we set up a booth at a tech trade show, 35% of attendees will stop at our booth.
+
+----------/////-----------//////----------///////--------------------
+
+4. 
+It's Day 1 of the motivation sprint and your team is using AIDAOR to storyboard the customer journey. Which of the following storyboard panels best illustrates Retention?
+
+After completing a lesson, I shared a link on my Facebook page so my friends can learn Urdu with me.
+
+Let me enter my info so I can use this program. Wow! I'm speaking Urdu!
+
+Oh, I see on Facebook I could get a free 1-week trial to learn Urdu if I like the page!
+
+xxxx	I've always wanted to become fluent in Urdu. This program says I can master the basics in just 6 months.
+
+
+4. 
+It's Day 1 of the motivation sprint and your team proposes an experiment to see whether users can navigate the registration process. You respond by....
+
+vvvv	Reviewing the distinction between usability and motivation
+
+Going over the three types of MVPs
+
+Talking about the yellow Walkman problem
+
+Revisiting the AIDAOR storyboards to ensure they're focused on the funnel
+
+----------/////-----------//////----------///////--------------------
+
+5. 
+On Day 5 of the motivation sprint, you converge the results of your experiments, which you consider valid, and realize you are well under the threshold you would consider a 'negative' result for the propositions you tested. The team discusses options. Which option will most likely lead to valuable outcomes?
+
+Adjust the baseline and move forward to drafting epics.
+
+Start focusing on usability
+
+vvvv	Rethink the value propositions and run another sprint.
+
+Revise the experiments and test again for motivation.

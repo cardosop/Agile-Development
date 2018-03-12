@@ -1,0 +1,90 @@
+Week 3 Quiz: Did it break?
+
+
+
+1. 
+What's one reason a tester might prefer to work on a DevOps-oriented team practicing continuous development, rather than in a more traditional, legacy-style environment?
+
+The tester prefers the clear handoffs typical of DevOps teams.
+
+VVVV	Automated testing frees up time to focus on building smarter process that avoid tedium
+
+There's far less testing in a DevOps environment.
+
+In DevOps, coders are more likely to be blamed for errors than testers.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+2. 
+You are managing a complete, interdisciplinary agile team that is working together for the first time. What habits and routines should you try to instill in the team?
+
+As we approach the end of an iteration, acceptance tests become a more important than user stories.
+
+VVVV	As we progress through the continuous delivery pipeline, we can allow more time for the later stage test suites to run.
+
+Let's not spend time establishing a shared vocabulary or formalizing polices.
+
+As long as we catch the bugs, it doesn't matter when we find them.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+3. 
+You've recently transitioned to a team practicing agile and continuous delivery. You have just finished your first release with the new team. How would you describe the biggest difference between testing in your old legacy environment and the new?
+
+My new team identifies all possible tests.
+
+VVVV	We focus testing around our view of the user's experience with the product.
+
+Testing on the new team is less automated.
+
+Once Quality Assurance testing is complete, I like having a complete list of all of the code fixes I need to make.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+4. 
+BKG Consulting is new to the practice of continuous delivery. They've made a lot of progress, but not all configuration is tracked in version control and some processes are still executed manually against process notes. How do teams in similar situations commonly falter during the release stage?
+
+Teams encounter a problem and make an undocumented manual change to fix it.
+
+Teams deploy changes to only a subset of users.
+
+XXXX	Teams lose time documenting changes.
+
+Teams use the build from the artifact repository.
+
+
+4. 
+After release, a problem is discovered in the train ticketing application your team has built. How should the team proceed?
+
+VVVV	Be sure to document any configurations or updates required for a fix through version control.
+
+Fix the problem as efficiently as possible and don't worry about the documentation needed for changes in other environments.
+
+The team should start with a fresh install by hand to be sure everything is correct.
+
+Someone should quickly fix the problem by any means necessary.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+5. 
+A team is gradually adopting continuous development practices. They get together to discuss how things are going after every sprint, but they are having trouble finding the best way to look at their progress over time. How would you recommend that the team improve its retrospectives?
+
+XXXX	The facilitator should ask team members why they think things are happening.
+
+The team should hold a 1-2 hour retrospective after every two-week sprint.
+
+The retrospective facilitator should prepare for each meeting by creating an agenda.
+
+The team should take notes on their retrospectives so they can keep track of decisions and evaluate their improvement.
+
+
+5. 
+Casey is on a new team that runs retrospectives after every sprint. She's impressed that they sometimes review results and that everyone on the team gets a chance to jump in to share why they think things happened during the previous sprint. Sometimes she's just not sure that she understands the big picture, though. How could her team improve its retrospectives?
+
+VVVV	The facilitator should prepare retrospective agendas and work on practicing the '5 why's' so the team is sure to get to the root of problems discussed.
+
+Since retrospectives take so much of the team's time, they should be more focused but happen less often.
+
+The team needs to needs to review retrospective meeting notes.
+
+The team should focus on results rather than the opinions of the team.

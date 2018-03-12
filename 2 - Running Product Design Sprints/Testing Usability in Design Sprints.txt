@@ -1,0 +1,125 @@
+Testing Usability in Design Sprints
+
+
+
+1. 
+Your team is arguing about whether to use rounded or squared corners on an interface button. You remind them to stop arguing and....
+
+Keep it simple
+
+xxxx	Don't overdo it
+
+Just decide
+
+Be consistent
+
+
+1. 
+Your team is wondering whether to use the magnifying glass to signify search or zoom. What do you suggest?
+
+yyyy	Look at comparables
+
+xxxx	Test it with users
+
+Keep it simple
+
+Use it in both ways
+
+---------/////-----------//////-------/////---------/////-----------
+
+2. 
+How would you use Donald Norman's 7 steps to guide your team's work on usabilty?
+
+To systematically understand and discuss user interaction
+
+To write user stories
+
+xxxx	To compare the intended goal with the reward of your product
+
+xxxx	As a template for usability tests
+
+
+2. 
+You're at the assessment phase of usabilty testing. A likely testing vehicle might be....
+
+More testing on the first set of wireframes
+
+yyyy	A revised, expanded set of interactive wireframes
+
+The final product, ready for users
+
+A working product
+
+---------/////-----------//////-------/////---------/////-----------
+
+3. 
+Which of the following is an appropriate objective for a validation test?
+
+xxxx	How are we doing on this user story?
+
+Are users able to navigate through the product info request process in fewer than 20 seconds?
+
+As Pemal the Professional, I want to order a tuxedo now so I'm sure it will be available for an event this Saturday night.
+
+As Sam the Small Business owner, I want to share a free drinks special we're having at 4 PM next Thursday so my regular customers see it before they head home.
+
+
+3. 
+Which of the following is an appropriate objective for an exploratory test?
+
+How long does it take to find a video tutorial about dog grooming?
+
+yyyy	As Sam the Small Business owner, I want to share a free drinks special we're having at 4pm next Thursday so my regular customers see it before they head home.
+
+How many different clicks does the user make to place an order?
+
+xxxx	Are users able to link their hotel reservation to their calendar so that information is easy for them to access?
+
+---------/////-----------//////-------/////---------/////-----------
+
+4. 
+Why is it critical to review as a team and converge ideas at each stage of test plan development?
+
+To create the best ideas
+
+xxxx	To uncover gaps in the user experience
+
+xxxx	To build team ownership over the process
+
+To ensure team members can execute the test plan
+
+
+4. 
+Your team has drafted an interactive prototype that supports your focal users stories. What should they do next?
+
+xxxx	Start drafting the test plan
+
+Review key patterns and comparables
+
+Review and converge
+
+Write the supporting user stories
+
+---------/////-----------//////-------/////---------/////-----------
+
+5. 
+Your product is designed to help working parents find reliable, high-quality childcare when the unexpected happens (their regular caregiver gets sick, the daycare center is closed due to bad weather, a child has a mild fever and can't go to school, etc.). Where would you perform the usability tests?
+
+In your office
+
+xxxx	In homes while parents prepare their children for the day
+
+xxxx	At the school's drop-off/pick up location
+
+At the daycare center
+
+5. 
+What's the best way to ensure you make the most of your time with subjects?
+
+Increase the fidelity of your prototypes
+
+yyyy	Have a tightly instrumented, well tested test plan
+
+Use a prioritized list of focal assumptions
+
+Test with subjects ex situ
